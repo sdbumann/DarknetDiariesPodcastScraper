@@ -30,7 +30,8 @@ def install_package(package_name):
     print(installed_packages)
 
 
-packages = ["selenium", ] 
+packages = ["selenium", 
+            "bs4", ] # BeautifulSoup
 
 # packages used that are native to python:
 # time
