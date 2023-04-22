@@ -23,7 +23,7 @@ This is a Python script that scrapes all the episodes of the [Darknet Diaries](h
 <!-- INSTALLATION -->
 ## Installation
 1. Clone this repository to your local machine using **'git clone https://github.com/sdbumann/DarknetDiariesPodcastScraper'**.
-2. Navigate into the directory: **'cd Darknet Diaries Podcast Scraper'**.
+2. Navigate into the directory: **'cd DarknetDiariesPodcastScraper'**.
 3. Install the required packages by running **'pip install -r requirements.txt'**
 (or alternatively 'python setup.py' -> Note that for this the 'conda' package manger might be needed).
 
@@ -93,7 +93,9 @@ If you find any bugs or issues with this script, please feel free to open an iss
 
 <!-- LICENSE -->
 ## License
-This project is licensed under the MIT License.
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-or-later.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+Software licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 <!-- CONTACT -->
 ## Contact
