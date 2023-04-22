@@ -1,5 +1,13 @@
 # Darknet Diaries Podcast Scraper
-This is a Python script that scrapes all the episodes of the [Darknet Diaries](https://darknetdiaries.com/) podcast and downloads the MP3 files.
+This is a Python project that scrapes and downloads episodes from the [Darknet Diaries](https://darknetdiaries.com/) podcast. It includes options to download all episodes, the latest missing episodes, a range of episodes, or only the missing episodes.
+
+![GitHub all releases](https://img.shields.io/github/downloads/sdbumann/DarknetDiariesPodcastScraper/total?logo=GitHub&style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/sdbumann/DarknetDiariesPodcastScraper?logo=GitHub&style=flat-square)
+![GitHub](https://img.shields.io/github/license/sdbumann/DarknetDiariesPodcastScraper?logo=GitHub&style=flat-square)
+![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/sdbumann/DarknetDiariesPodcastScraper?logo=GitHub&style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/sdbumann/DarknetDiariesPodcastScraper/total?logo=GitHub&style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sdbumann/DarknetDiariesPodcastScraper?logo=GitHub&style=flat-square)
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -25,7 +33,6 @@ This is a Python script that scrapes all the episodes of the [Darknet Diaries](h
 1. Clone this repository to your local machine using **'git clone https://github.com/sdbumann/DarknetDiariesPodcastScraper'**.
 2. Navigate into the directory: **'cd DarknetDiariesPodcastScraper'**.
 3. Install the required packages by running **'pip install -r requirements.txt'**
-(or alternatively 'python setup.py' -> Note that for this the 'conda' package manger might be needed).
 
 <!-- USAGE -->
 ## Usage
