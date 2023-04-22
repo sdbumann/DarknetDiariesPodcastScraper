@@ -1,7 +1,6 @@
 # Darknet Diaries Podcast Scraper
 This is a Python project that scrapes and downloads episodes from the [Darknet Diaries](https://darknetdiaries.com/) podcast. It includes options to download all episodes, the latest missing episodes, a range of episodes, or only the missing episodes.
 
-![GitHub all releases](https://img.shields.io/github/downloads/sdbumann/DarknetDiariesPodcastScraper/total?logo=GitHub&style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/sdbumann/DarknetDiariesPodcastScraper?logo=GitHub&style=flat-square)
 ![GitHub](https://img.shields.io/github/license/sdbumann/DarknetDiariesPodcastScraper?logo=GitHub&style=flat-square)
 ![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/sdbumann/DarknetDiariesPodcastScraper?logo=GitHub&style=flat-square)
