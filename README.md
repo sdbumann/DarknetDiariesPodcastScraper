@@ -6,7 +6,7 @@ This is a Python script that scrapes all the episodes of the [Darknet Diaries](h
 
 * [Requirements](#requirements)
 * [Installation](#installation)
-* [Usage](#usuage)
+* [Usage](#usage)
 * [Functionality](#functionality)
 * [Note](#note)
 * [License](#license)
